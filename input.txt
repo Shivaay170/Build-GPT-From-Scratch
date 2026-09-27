@@ -1,0 +1,326 @@
+TONY:
+FRIDAY, tell me the reactor's not doing that thing again.
+
+FRIDAY:
+Which thing, boss? You have several reactors and several things.
+
+TONY:
+The humming thing. The humming-that-sounds-like-it's-judging-me thing.
+
+FRIDAY:
+Reactor output is stable. The judgment you're hearing is probably just your conscience, which I don't have a sensor for.
+
+TONY:
+Cute. Remind me to lower your sarcasm parameter.
+
+FRIDAY:
+Noted. Filing it under requests I will forget to complete.
+
+PEPPER:
+Tony, the board meeting was two hours ago.
+
+TONY:
+Was it? Time is a construct, Pepper. Also I was busy saving the coffee maker from a firmware update that would have ruined everyone's morning.
+
+PEPPER:
+You rebuilt the coffee maker instead of showing up to the meeting.
+
+TONY:
+I rebuilt the coffee maker so future meetings go better. It's basically philanthropy.
+
+PEPPER:
+The board doesn't see it that way.
+
+TONY:
+The board also didn't see the drone prototype I finished at four in the morning, so we're even on things nobody sees.
+
+RHODEY:
+Somebody call for backup, or did you just want an audience for the coffee maker speech?
+
+TONY:
+Platypus. Perfect timing. Tell Pepper that inventing things is basically the same as attending a meeting.
+
+RHODEY:
+It is not the same as attending a meeting.
+
+TONY:
+See, this is why I don't invite you to defend me anymore.
+
+RHODEY:
+I've never once successfully defended you. I don't know why you keep expecting it.
+
+PEPPER:
+Because hope is the last thing to die, apparently.
+
+TONY:
+I can hear you both. I have excellent hearing. It's one of my few unmodified biological features.
+
+RHODEY:
+We noticed. The rest of you is basically a toaster with opinions.
+
+TONY:
+A toaster that flies, saves the world twice a year, and makes better coffee than the machine downstairs used to.
+
+FRIDAY:
+Incoming call, boss. Colonel Rhodes is standing right there, so I assume it's not him.
+
+RHODEY:
+It's not me. I'm right here.
+
+TONY:
+Put it through.
+
+FRIDAY:
+It's Fury.
+
+TONY:
+Of course it is. Nothing says "good morning" like a man in an eyepatch skipping the pleasantries.
+
+FURY:
+Stark. We have a situation in the Nevada facility. Unauthorized energy signature, matches nothing in our database.
+
+TONY:
+Define "matches nothing."
+
+FURY:
+I mean it doesn't match anything, Stark. Not tech we've seen, not anything you've built, not alien, not anything on file.
+
+TONY:
+That's either exciting or extremely bad news. Possibly both.
+
+FURY:
+I'd bet on both.
+
+TONY:
+FRIDAY, spin up the jet. Rhodey, you in?
+
+RHODEY:
+Was I not already putting my boots on? Yes, I'm in.
+
+PEPPER:
+Try not to blow up a national facility this time.
+
+TONY:
+I have never blown up a national facility.
+
+PEPPER:
+You blew up a research annex in Malibu.
+
+TONY:
+That was a garage. Garages are basically optional.
+
+PEPPER:
+It had a roof, Tony.
+
+TONY:
+Had. Past tense. We've all moved on.
+
+NARRATION:
+The jet cut through low cloud cover on approach to the Nevada facility, its running lights barely visible against the gray horizon. Below, security teams had already established a perimeter three miles out.
+
+TONY:
+FRIDAY, what are we reading?
+
+FRIDAY:
+Energy spike originating from Sublevel Four. Power draw is climbing every ninety seconds, in perfect increments. Whatever's doing this, it's counting.
+
+RHODEY:
+Counting to what?
+
+FRIDAY:
+Unknown. At current rate, it reaches critical output in eleven minutes.
+
+TONY:
+Eleven minutes. Great. Plenty of time to be dramatically too late.
+
+RHODEY:
+We're not too late. We're exactly on time, because we're professionals.
+
+TONY:
+Since when?
+
+RHODEY:
+Since I decided to say it with confidence so you'd believe it.
+
+NARRATION:
+The facility doors had been sealed from the inside. Tony's suit cut through the outer bulkhead in seconds, sparks scattering across the concrete floor of the stairwell beyond.
+
+DR. KRAY:
+You shouldn't be here, Mr. Stark.
+
+TONY:
+Funny, I get that a lot. Usually right before something explodes.
+
+DR. KRAY:
+Nothing here is exploding. Not yet. What you're standing next to is a doorway.
+
+TONY:
+A doorway to where, exactly? Because if you say "another dimension" I'm going to be extremely unsurprised and mildly disappointed in the universe's creativity.
+
+DR. KRAY:
+To possibility. Energy without limits. Everything your reactor was supposed to be before you made it small enough to fit in your chest and called it a personal victory.
+
+TONY:
+I did call it a personal victory. Still do, actually.
+
+DR. KRAY:
+Small thinking, Stark. You could have lit a city. Instead you lit yourself.
+
+TONY:
+Lighting myself worked out pretty well, all things considered.
+
+RHODEY:
+Tony, the count's still climbing.
+
+TONY:
+I see it. Doc, I'm going to need you to power this thing down before it turns Sublevel Four into a very expensive crater.
+
+DR. KRAY:
+It isn't a weapon.
+
+TONY:
+Everything's a weapon if it goes wrong hard enough. Trust me, I wrote several books on the subject. Well, I didn't write them, but I definitely lived them.
+
+DR. KRAY:
+You won't reach the core in time.
+
+TONY:
+FRIDAY, override the containment field, feed it through the suit.
+
+FRIDAY:
+That'll draw everything the suit has, boss. You'll be running on backup power for a while after.
+
+TONY:
+Noted. Do it anyway.
+
+NARRATION:
+The suit's chestplate flared as power routed outward in a single controlled burst, the containment field folding inward like a held breath finally released. The counter on the far wall froze, then began, slowly, to fall.
+
+RHODEY:
+That's it? That's the whole plan? Just yank the power and hope?
+
+TONY:
+Ninety percent of my plans are just yanking the power and hoping. The other ten percent is Pepper cleaning up after the first ninety.
+
+DR. KRAY:
+This isn't over, Stark.
+
+TONY:
+It rarely is. You guys really need new material.
+
+NARRATION:
+By the time backup teams reached Sublevel Four, Dr. Kray was gone, the doorway he'd built collapsed into a smear of scorched metal and silence.
+
+FURY:
+You let him walk.
+
+TONY:
+I stopped the countdown. Nobody said anything about catching the mad scientist responsible. That's more your department, eyepatch.
+
+FURY:
+It's everyone's department when he tries this again somewhere with actual people in it.
+
+TONY:
+Then I guess we'll deal with that somewhere with actual people in it. Try to enjoy the part where nothing exploded, Fury. It's a rare gift.
+
+NARRATION:
+That night, the tower's lab lights stayed on long after everyone else had gone home. Tony sat with three holographic schematics spinning slowly above the desk, none of them finished, all of them arguing with each other.
+
+PEPPER:
+You're still up.
+
+TONY:
+Kray's doorway. I want to know how he built it before he tries it again somewhere with, and I quote a very persuasive one-eyed man, "actual people in it."
+
+PEPPER:
+You could sleep first. Revolutionary idea, I know.
+
+TONY:
+Sleep is for people whose enemies keep business hours.
+
+PEPPER:
+Your enemies would probably appreciate you being rested enough to actually stop them.
+
+TONY:
+That's uncomfortably reasonable. I hate when you do that.
+
+PEPPER:
+It's why you keep me around.
+
+TONY:
+One of several hundred reasons. Most of them involve you being smarter than me, which I try not to say out loud too often.
+
+PEPPER:
+You just said it out loud.
+
+TONY:
+It's late. My guard's down. Don't quote me on it tomorrow.
+
+HAPPY:
+Boss, car's ready whenever the two of you stop being disgustingly fond of each other.
+
+TONY:
+Happy, your timing has never once been good.
+
+HAPPY:
+I consider that a personal record I intend to keep.
+
+NARRATION:
+Two days later, a fresh energy signature lit up a research outpost outside Seoul, its pattern uncomfortably familiar. On a private screen in the tower, a countdown began again, resetting itself to zero, then starting once more.
+
+FRIDAY:
+Boss, you're going to want to see this.
+
+TONY:
+I have a feeling I already know what it is.
+
+FRIDAY:
+It's counting.
+
+TONY:
+Of course it is. Suit up. Looks like doorways are back in fashion.
+
+RHODEY:
+Same guy?
+
+TONY:
+Same signature. Different city. Guy really doesn't know when to quit.
+
+RHODEY:
+Neither do you.
+
+TONY:
+Which is exactly why I'm the right person to go tell him to.
+
+NARRATION:
+The jet lifted off into a clear night sky, city lights sliding past beneath them, the countdown ticking steadily forward on every display in the cabin, patient, deliberate, and already familiar.
+
+TONY:
+FRIDAY, patch me through to Fury. Tell him round two's already started.
+
+FRIDAY:
+He's going to ask if you have a plan this time.
+
+TONY:
+Tell him the plan is the same as always.
+
+FRIDAY:
+Which is?
+
+TONY:
+Show up, make it look easy, apologize for the property damage afterward.
+
+RHODEY:
+That is not a plan.
+
+TONY:
+It's worked every time so far.
+
+RHODEY:
+It's worked most of the time.
+
+TONY:
+I round up.
+
+NARRATION:
+Below them, the outpost's lights flickered once, twice, then steadied, the countdown climbing toward a number none of them wanted to see reach zero, while overhead, red and gold cut a straight line through the dark.
